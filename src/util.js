@@ -12,3 +12,11 @@ export const sortData = (data) => {
 
     return sortedData;
 }
+
+//
+
+// "development": [
+//     "last 1 chrome version",
+//     "last 1 firefox version",
+//     "last 1 safari version"
+//   ]
